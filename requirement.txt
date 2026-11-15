@@ -1,0 +1,5 @@
+pandas
+numby
+os
+scripy
+matplotlib
